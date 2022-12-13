@@ -48,7 +48,7 @@ body {
   width: 80%;
   flex-direction: column;
   align-content: center;
-  margin: auto;
+  margin: 0.5rem auto;
   background-color: #79a4be98;
   border-radius: 2rem;
 }
